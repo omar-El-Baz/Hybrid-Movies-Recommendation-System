@@ -9,4 +9,3 @@ jupyterlab
 tensorflow
 torch 
 joblib
-scikit-surprise
