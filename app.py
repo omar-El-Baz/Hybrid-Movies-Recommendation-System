@@ -6,7 +6,7 @@ from sklearn.decomposition import TruncatedSVD
 from sklearn.preprocessing import MinMaxScaler
 import os
 
-DATA_DIR = '../Data/' 
+DATA_DIR = 'data/' 
 
 # --- Load Data ---
 @st.cache_data # Cache data loading
