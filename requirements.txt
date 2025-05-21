@@ -1,4 +1,3 @@
-surprise
 streamlit
 jupyterlab
 numpy
