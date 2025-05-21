@@ -1,11 +1,9 @@
 streamlit
-jupyterlab
-numpy
 pandas
+numpy
+scikit-learn
 scikit-learn
 matplotlib
 seaborn
 jupyterlab
-tensorflow
-torch 
 joblib
