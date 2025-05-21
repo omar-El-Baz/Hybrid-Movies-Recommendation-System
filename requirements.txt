@@ -1,0 +1,13 @@
+surprise
+streamlit
+jupyterlab
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyterlab
+tensorflow
+torch 
+joblib
+scikit-surprise
